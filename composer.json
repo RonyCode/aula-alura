@@ -1,5 +1,5 @@
 {
-    "name": "ronycode/alura-composer",
+    "name": "ronycode",
     "description": "Buscador de projeto que busca curso no site do alura",
     "type": "library",
     "authors": [
